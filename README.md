@@ -25,5 +25,7 @@ python Js-forward.py -t http -s xxx.example.com -i 192.168.101.33
 
 
 > 关于工具的思路与原理请访问该项目查看：
-> https://github.com/G-Security-Team/JS-Forward
-> https://github.com/CTF-MissFeng/jsForward
+```
+https://github.com/G-Security-Team/JS-Forward
+https://github.com/CTF-MissFeng/jsForward
+```
